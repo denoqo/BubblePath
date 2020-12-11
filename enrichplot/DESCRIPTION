@@ -1,0 +1,35 @@
+Package: enrichplot
+Title: Visualization of Functional Enrichment Result
+Version: 1.8.1
+Authors@R: c(
+    person(given = "Guangchuang", family = "Yu", email = "guangchuangyu@gmail.com",   role  = c("aut", "cre"), comment = c(ORCID = "0000-0002-6485-8781")),
+    person(given = "Erqiang",     family = "Hu", email = "13766876214@163.com",       role = "ctb"))
+Description: The 'enrichplot' package implements several visualization methods for interpreting functional enrichment results obtained from ORA or GSEA analysis.
+             All the visualization methods are developed based on 'ggplot2' graphics.
+Depends: R (>= 3.4.0)
+Imports: AnnotationDbi, cowplot, DOSE (>= 3.13.1), europepmc, ggplot2,
+        ggplotify, ggraph, ggridges, GOSemSim, graphics, grDevices,
+        grid, gridExtra, igraph, methods, plyr, purrr, RColorBrewer,
+        reshape2, stats, utils, scatterpie
+Suggests: clusterProfiler, dplyr, ggupset, knitr, org.Hs.eg.db,
+        prettydoc, tibble, tidyr
+VignetteBuilder: knitr
+License: Artistic-2.0
+URL: https://github.com/GuangchuangYu/enrichplot
+BugReports: https://github.com/GuangchuangYu/enrichplot/issues
+biocViews: Annotation, GeneSetEnrichment, GO, KEGG, Pathways, Software,
+        Visualization
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+git_url: https://git.bioconductor.org/packages/enrichplot
+git_branch: RELEASE_3_11
+git_last_commit: e55d9f1
+git_last_commit_date: 2020-04-29
+Date/Publication: 2020-04-29
+NeedsCompilation: no
+Packaged: 2020-04-30 02:54:19 UTC; biocbuild
+Author: Guangchuang Yu [aut, cre] (<https://orcid.org/0000-0002-6485-8781>),
+  Erqiang Hu [ctb]
+Maintainer: Guangchuang Yu <guangchuangyu@gmail.com>
+Built: R 4.0.0; ; 2020-04-30 13:32:15 UTC; unix

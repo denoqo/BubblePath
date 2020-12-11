@@ -1,0 +1,23 @@
+barplot.enrichResult    barplot
+cnetplot                cnetplot
+color_palette           color_palette
+dotplot                 dotplot
+dotplot,compareClusterResult-method
+                        dotplot
+emapplot                emapplot
+fortify.compareClusterResult
+                        fortify
+ggtable                 ggtable
+goplot                  goplot
+gsInfo                  gsInfo
+gseadist                gseadist
+gseaplot                gseaplot
+gseaplot2               gseaplot2
+gsearank                gsearank
+heatplot                heatplot
+list2graph              convert gene IDs to igraph object
+plotting.clusterProfile
+                        plotting-clusterProfile
+pmcplot                 pmcplot
+ridgeplot               ridgeplot
+upsetplot               upsetplot method
