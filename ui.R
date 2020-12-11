@@ -7,6 +7,7 @@ library(enrichR)
 library(clusterProfiler)
 library(enrichplot)
 library(colourpicker)
+library(ggthemr)
 
 
 ui <- pageWithSidebar(
