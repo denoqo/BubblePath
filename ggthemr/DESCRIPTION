@@ -1,0 +1,39 @@
+Package: ggthemr
+Title: Themes for 'ggplot2'
+Description: Colour schemes and layouts for 'ggplot2'.
+Version: 1.1.0
+Date: 2020-11-01
+Authors@R: c(
+    person('Ciaran', 'Tobin', , 'cttobin@hotmail.com', 'aut'),
+    person('Amy Tzu-Yu', 'Chen', , 'amy17519@gmail.com', role = 'cre',
+           comment = c(ORCID = '0000-0002-4085-572X')),
+    person('Gergely', 'Daróczi', , 'daroczig@rapporter.net', role = 'ctb',
+           comment = c(ORCID = '0000-0003-3149-8537')),
+    person('Mikata', role = c('fnd'))
+    )
+Imports: scales
+Depends: R (>= 3.0.0), ggplot2 (>= 3.3.2)
+Suggests: testthat
+License: GPL-3
+LazyData: true
+Encoding: UTF-8
+Language: en-US
+RoxygenNote: 7.1.1
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: ggthemr
+RemoteUsername: Mikata-Project
+RemoteRef: HEAD
+RemoteSha: 3a86e28195465d9ef51405d96a0c612eec11533a
+GithubRepo: ggthemr
+GithubUsername: Mikata-Project
+GithubRef: HEAD
+GithubSHA1: 3a86e28195465d9ef51405d96a0c612eec11533a
+NeedsCompilation: no
+Packaged: 2020-12-07 05:35:49 UTC; qixu
+Author: Ciaran Tobin [aut],
+  Amy Tzu-Yu Chen [cre] (<https://orcid.org/0000-0002-4085-572X>),
+  Gergely Daróczi [ctb] (<https://orcid.org/0000-0003-3149-8537>),
+  Mikata [fnd]
+Maintainer: Amy Tzu-Yu Chen <amy17519@gmail.com>
+Built: R 4.0.3; ; 2020-12-07 05:35:49 UTC; unix

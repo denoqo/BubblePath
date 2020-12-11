@@ -1,0 +1,57 @@
+align_title_left        Align title left
+align_title_right       Align title right
+colour_plot             Plot colours
+darken_gradient         Make ggthemr gradient darker
+darken_palette          Make ggthemr palette darker
+darken_swatch           Make ggthemr swatch darker
+define_palette          Create ggthemr palette
+define_swatch           Create a ggthemr_swatch object
+get_themr               Get Current Theme
+ggthemr                 Style ggplot2
+ggthemr_current         Store Theme
+ggthemr_reset           Reset Theme
+is_colour               Is an object a valid colour?
+is_ggthemr              Is a ggthemr object
+legend_bottom           ggplot2 Legend Position
+lighten_gradient        Make ggthemr gradient lighter
+lighten_palette         Make ggthemr palette lighter
+lighten_swatch          Make ggthemr swatch lighter
+move_legend             Move legend.
+no_axes                 Remove ggplot2 Axes
+no_axes_titles          Remove ggplot2 axes titles
+no_gridlines            Remove all gridlines
+no_legend               Remove ggplot2 Legend
+no_legend_title         Remove ggplot2 Legend Title
+no_major_gridlines      Remove major gridlines
+no_major_x_gridlines    Remove major x gridlines
+no_major_y_gridlines    Remove major y gridlines
+no_minor_gridlines      Remove minor gridlines
+no_minor_x_gridlines    Remove minor x gridlines
+no_minor_y_gridlines    Remove minor y gridlines
+no_ticks                Remove ggplot2 tick marks
+no_title                Remove ggplot2 title
+no_x_axis               Remove ggplot2 x-axis
+no_x_gridlines          Remove vertical gridlines.
+no_x_line               Remove ggplot2 x-axis line
+no_x_text               Remove ggplot2 x-axis text/labels
+no_x_ticks              Remove ggplot2 x-axis tick marks
+no_x_title              Remove ggplot2 x-axis titles
+no_y_axis               Remove ggplot2 y-axis
+no_y_gridlines          Remove horizontal gridlines.
+no_y_line               Remove ggplot2 y-axis line
+no_y_text               Remove ggplot2 y-axis text/labels
+no_y_ticks              Remove ggplot2 y-axis tick marks
+no_y_title              Remove ggplot2 y-axis titles
+plot.ggthemr            Create colour plot of ggthemr palette
+plot.ggthemr_palette    Create colour plot of ggthemr palette
+plot.ggthemr_swatch     Create colour plot of ggthemr swatch
+random_swatch_colour    Random swatch colour
+reverse_gradient        Reverse ggthemr gradient colours
+rotate_axes_text        Rotate ggplot2 axes labels
+rotate_x_text           Rotate ggplot2 x-axis labels
+rotate_y_text           Rotate ggplot2 x-axis labels
+set_swatch              Change the swatch colours in a ggthemr theme
+set_themr               Set Current Theme
+shuffle_swatch          Shuffle ggthemr swatch colours
+swatch                  Retrieve the swatch colours from a ggthemr
+                        object
